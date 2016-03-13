@@ -1,7 +1,5 @@
 # wallaby-python
 Connect your Wallaby to Eclipse to write Python
-
-Introduction
 ====
 
 **This repository supports the automatic transfer of Python code from Eclipse to the Wallaby robot controller via USB.**
